@@ -45,7 +45,8 @@
     "p-timeout": "^6.0.0",
     "quick-lru": "^6.1.1",
     "read-pkg-up": "^9.1.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {
     "@keyv/redis": "^2.5.4",
