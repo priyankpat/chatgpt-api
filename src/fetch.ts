@@ -1,5 +1,8 @@
-/// <reference lib="dom" />
+// /// <reference lib="dom" />
 
-const fetch = globalThis.fetch
+// const fetch = globalThis.fetch
 
-export { fetch }
+// export { fetch }
+import fetch from 'isomorphic-fetch';
+
+export { fetch };
